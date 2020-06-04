@@ -7,6 +7,9 @@
     border-radius: 25px;
     text-align: center;
 }
+.phrase {
+    text-align: center;
+}
 .warm-up {
     margin: 0,75cm;
     font-size: 12pt;
@@ -29,4 +32,9 @@
     text-align: center;
     font-style: normal;
 
+}
+.day1 {
+    text-align: center;
+    background-color: lightsteelblue;
+    border-radius: 25px;
 }
