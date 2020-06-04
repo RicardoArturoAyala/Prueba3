@@ -14,3 +14,18 @@
     color: darkslategray;
     text-align: center;
 }
+.references {
+    margin: 0,75cm;
+    font-size: 12pt;
+    font-family: monospace;
+    font-style: normal;
+    text-align: center;
+    color: lightslategrey;
+}
+.day30-routine {
+    margin: 0,75cm;
+    font-size: 12pt;
+    font-family: monospace;
+    text-align: center;
+
+}
