@@ -12,8 +12,10 @@
     font-style: italic;
 }
 .warm-up {
+    background-color: rgb(201, 106, 106);
+    border-radius: 25px;
     margin: 0,75cm;
-    font-size: 12pt;
+    font-size: 200%;
     font-family: monospace;
     color: darkslategray;
     text-align: center;
