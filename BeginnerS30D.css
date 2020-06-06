@@ -15,7 +15,7 @@
     background-color: rgb(201, 106, 106);
     border-radius: 25px;
     margin: 0,75cm;
-    font-size: 12pt;
+    font-size: 15pt;
     font-family: monospace;
     color: darkslategray;
     text-align: center;
@@ -40,4 +40,5 @@
     text-align: center;
     background-color: lightsteelblue;
     border-radius: 25px;
+    font-size: 15pt;
 }
