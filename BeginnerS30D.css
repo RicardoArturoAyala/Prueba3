@@ -48,3 +48,26 @@
     border-radius: 25px;
     font-size: 15pt;
 }
+.day3 {
+    text-align: center;
+    background-color: peru;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.excersices {
+    margin: 0,75cm;
+    font-size: 15pt;
+    font-family: monospace;
+}
+.warm-up-intro {
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 25px;
+    margin: 3cm;
+}
+.routine-excersices {
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 25px;
+    margin: 3cm;
+}
