@@ -50,6 +50,14 @@
 }
 .day3 {
     text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day4 {
+    text-align: center;
     background-color: peru;
     border-radius: 25px;
     font-size: 15pt;
@@ -63,11 +71,23 @@
     background-color: black;
     color: blanchedalmond;
     border-radius: 25px;
-    margin: 3cm;
+    margin: 1,5cm;
 }
 .routine-excersices {
     background-color: black;
     color: blanchedalmond;
     border-radius: 25px;
-    margin: 3cm;
+    margin: 1,5cm;
+}
+.legs {
+    color: rgb(110, 24, 41);
+}
+.cardio {
+    color: rgb(110, 24, 41);
+}
+.glutes {
+    color: rgb(110, 24, 41);
+}
+.abs {
+    color: rgb(110, 24, 41);
 }
