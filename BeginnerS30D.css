@@ -7,7 +7,7 @@
     border-radius: 25px;
     text-align: center;
 }
-.phrase {
+.phrase1 {
     text-align: center;
     font-style: italic;
 }
@@ -58,9 +58,191 @@
 }
 .day4 {
     text-align: center;
+    background-color: #2d6a4f;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day5 {
+    text-align: center;
+    background-color: #007F5F;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day6 {
+    text-align: center;
+    background-color: #3A506B;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day7 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.phrase2 {
+    text-align: center;
+    font-style: italic;
+}
+.day8 {
+    text-align: center;
+    background-color: #9fa2b2;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day9 {
+    text-align: center;
+    background-color: #6e8e9e;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day10 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day11 {
+    text-align: center;
+    background-color: #558494;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day12 {
+    text-align: center;
+    background-color: #88855f;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day13 {
+    text-align: center;
+    background-color: #70abbb;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day14 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day15 {
+    text-align: center;
+    background-color: lightsteelblue;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.phrase3 {
+    text-align: center;
+    font-style: italic;
+}
+.day16 {
+    text-align: center;
+    background-color: #007F5F;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day17 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day18 {
+    text-align: center;
+    background-color: #79A48E;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day19 {
+    text-align: center;
+    background-color: #70abbb;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day20 {
+    text-align: center;
+    background-color: #CE7B65;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day21 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day22 {
+    text-align: center;
     background-color: peru;
     border-radius: 25px;
     font-size: 15pt;
+}
+.day23 {
+    text-align: center;
+    background-color: peru;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day24 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day25 {
+    text-align: center;
+    background-color: #B33E2C;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day26 {
+    text-align: center;
+    background-color: #CB9F7D;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day27 {
+    text-align: center;
+    background-color: #D88D3D;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day28 {
+    text-align: center;
+    background-color: #1B9AAA;
+    border-radius: 25px;
+    font-size: 20pt;
+    color:  blanchedalmond;
+    margin: 1,5cm;
+}
+.day29 {
+    text-align: center;
+    background-color: #D76716;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.day30 {
+    text-align: center;
+    background-color: #79A48E;
+    border-radius: 25px;
+    font-size: 15pt;
+}
+.phrase4 {
+    text-align: center;
+    font-style: italic;
 }
 .excersices {
     margin: 0,75cm;
