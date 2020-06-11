@@ -1,9 +1,8 @@
 .ome {
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: auto;
     background-repeat: no-repeat;
-    max-width: auto;
-    max-height: fit-content;
+    max-height: none;
 }
 .background {
     background-attachment: fixed;
