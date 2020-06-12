@@ -1,9 +1,8 @@
 body {
     background-image: url(https://images.unsplash.com/photo-1530021356476-0a6375ffe73b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1535&q=80);
     background-attachment: fixed;
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
 }
 .tittle {
     background-color: #68BB93;
