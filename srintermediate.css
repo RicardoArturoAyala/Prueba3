@@ -13,6 +13,7 @@ body {
 .phrase1 {
     text-align: center;
     font-style: italic;
+    color: #5e6472;
 }
 .warm-up {
     background-color: #deaaff;
@@ -93,6 +94,7 @@ body {
 .phrase2 {
     text-align: center;
     font-style: italic;
+    color: #5e6472;
 }
 .day8 {
     text-align: center;
@@ -155,6 +157,7 @@ body {
 .phrase3 {
     text-align: center;
     font-style: italic;
+    color: #5e6472;
 }
 .day16 {
     text-align: center;
@@ -268,6 +271,7 @@ body {
 .phrase4 {
     text-align: center;
     font-style: italic;
+    color: #5e6472;
 }
 .excersices {
     margin: 0,75cm;
