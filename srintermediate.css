@@ -1,10 +1,13 @@
 body {
-    background-image: url(https://images.pexels.com/photos/3927387/pexels-photo-3927387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=2000);
+    background-image: url(https://images.pexels.com/photos/3927387/pexels-photo-3927387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=600);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: center;
+    -webkit-backgound-size: cover;
+    -o-backgound-size: cover;
+    -moz-backgound-size: cover;
+    background-position: center center;
+    overflow: auto;
 }
 .tittle {
     background-color: #68BB93;
