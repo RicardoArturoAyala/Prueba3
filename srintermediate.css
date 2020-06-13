@@ -1,16 +1,8 @@
 body {
-    background-image: url(https://images.pexels.com/photos/3927387/pexels-photo-3927387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=3000);
-    background-attachment: fixed;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    -webkit-backgound-size: cover;
-    -o-backgound-size: cover;
-    -moz-backgound-size: cover;
-    background-position: center center;
-    overflow: auto;
+    background-color: rgb(255, 244, 253);
 }
 .tittle {
-    background-color: #68BB93;
+    background-color: #db80cc;
     margin: 0.50cm;
     font-size: 15pt;
     font-family: monospace;
@@ -23,7 +15,7 @@ body {
     font-style: italic;
 }
 .warm-up {
-    background-color: rgb(201, 106, 106);
+    background-color: #deaaff;
     border-radius: 25px;
     margin: 0.50cm;
     font-size: 15pt;
@@ -49,15 +41,17 @@ body {
 }
 .day1 {
     text-align: center;
-    background-color: lightsteelblue;
+    background-color: #d8e2dc;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day2 {
     text-align: center;
-    background-color: rgb(122, 139, 126);
+    background-color: #f0e6ef;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day3 {
     text-align: center;
@@ -69,21 +63,24 @@ body {
 }
 .day4 {
     text-align: center;
-    background-color: #2d6a4f;
+    background-color: #d9f3e2;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day5 {
     text-align: center;
-    background-color: #007F5F;
+    background-color: #fce0ce;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day6 {
     text-align: center;
-    background-color: #3A506B;
+    background-color: #fadde1;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day7 {
     text-align: center;
@@ -99,15 +96,17 @@ body {
 }
 .day8 {
     text-align: center;
-    background-color: #9fa2b2;
+    background-color: #fdcdbe;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day9 {
     text-align: center;
-    background-color: #6e8e9e;
+    background-color: #d9f3e2;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day10 {
     text-align: center;
@@ -119,21 +118,24 @@ body {
 }
 .day11 {
     text-align: center;
-    background-color: #558494;
+    background-color: #fbc4ab;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day12 {
     text-align: center;
-    background-color: #88855f;
+    background-color: #ffc4d6;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day13 {
     text-align: center;
-    background-color: #70abbb;
+    background-color: #c8e7ff;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day14 {
     text-align: center;
@@ -145,9 +147,10 @@ body {
 }
 .day15 {
     text-align: center;
-    background-color: lightsteelblue;
+    background-color: #fce0ce;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .phrase3 {
     text-align: center;
@@ -155,9 +158,10 @@ body {
 }
 .day16 {
     text-align: center;
-    background-color: #007F5F;
+    background-color: #f3c4fb;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day17 {
     text-align: center;
@@ -169,21 +173,24 @@ body {
 }
 .day18 {
     text-align: center;
-    background-color: #79A48E;
+    background-color: #d9f3e2;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day19 {
     text-align: center;
-    background-color: #70abbb;
+    background-color: #ffdab9;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day20 {
     text-align: center;
-    background-color: #CE7B65;
+    background-color: #ded9e2;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day21 {
     text-align: center;
@@ -195,15 +202,17 @@ body {
 }
 .day22 {
     text-align: center;
-    background-color: peru;
+    background-color: #fce0ce;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day23 {
     text-align: center;
-    background-color: peru;
+    background-color:#e2cfea;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day24 {
     text-align: center;
@@ -215,21 +224,24 @@ body {
 }
 .day25 {
     text-align: center;
-    background-color: #B33E2C;
+    background-color: #ffd8be;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day26 {
     text-align: center;
-    background-color: #CB9F7D;
+    background-color: #d0d1ff;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day27 {
     text-align: center;
-    background-color: #D88D3D;
+    background-color: #ffdab9;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day28 {
     text-align: center;
@@ -241,15 +253,17 @@ body {
 }
 .day29 {
     text-align: center;
-    background-color: #D76716;
+    background-color: #c2e2ea;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .day30 {
     text-align: center;
-    background-color: #79A48E;
+    background-color: #ffd7d5;
     border-radius: 25px;
     font-size: 15pt;
+    color: #6d6875;
 }
 .phrase4 {
     text-align: center;
